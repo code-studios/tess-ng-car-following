@@ -72,7 +72,7 @@
       "volume": 100,
       "seed": 10,
       "run_folder": "IDM_10_100",
-      "trajectory": "IDM_10_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -90,7 +90,7 @@
       "volume": 100,
       "seed": 300,
       "run_folder": "IDM_300_100",
-      "trajectory": "IDM_300_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -108,7 +108,7 @@
       "volume": 200,
       "seed": 10,
       "run_folder": "IDM_10_200",
-      "trajectory": "IDM_10_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 200,
@@ -126,7 +126,7 @@
       "volume": 200,
       "seed": 300,
       "run_folder": "IDM_300_200",
-      "trajectory": "IDM_300_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 200,
@@ -144,7 +144,7 @@
       "volume": 300,
       "seed": 10,
       "run_folder": "IDM_10_300",
-      "trajectory": "IDM_10_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 300,
@@ -162,7 +162,7 @@
       "volume": 300,
       "seed": 300,
       "run_folder": "IDM_300_300",
-      "trajectory": "IDM_300_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 60,
@@ -180,7 +180,7 @@
       "volume": 400,
       "seed": 10,
       "run_folder": "IDM_10_400",
-      "trajectory": "IDM_10_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 400,
@@ -198,7 +198,7 @@
       "volume": 400,
       "seed": 300,
       "run_folder": "IDM_300_400",
-      "trajectory": "IDM_300_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 87,
@@ -216,7 +216,7 @@
       "volume": 500,
       "seed": 10,
       "run_folder": "IDM_10_500",
-      "trajectory": "IDM_10_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 496,
@@ -234,7 +234,7 @@
       "volume": 500,
       "seed": 300,
       "run_folder": "IDM_300_500",
-      "trajectory": "IDM_300_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -252,7 +252,7 @@
       "volume": 650,
       "seed": 10,
       "run_folder": "IDM_10_650",
-      "trajectory": "IDM_10_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 529,
@@ -270,7 +270,7 @@
       "volume": 650,
       "seed": 300,
       "run_folder": "IDM_300_650",
-      "trajectory": "IDM_300_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 524,
@@ -288,7 +288,7 @@
       "volume": 900,
       "seed": 10,
       "run_folder": "IDM_10_900",
-      "trajectory": "IDM_10_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 184,
@@ -306,7 +306,7 @@
       "volume": 900,
       "seed": 300,
       "run_folder": "IDM_300_900",
-      "trajectory": "IDM_300_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 526,
@@ -324,7 +324,7 @@
       "volume": 1500,
       "seed": 10,
       "run_folder": "IDM_10_1500",
-      "trajectory": "IDM_10_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_10_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 530,
@@ -342,7 +342,7 @@
       "volume": 1500,
       "seed": 300,
       "run_folder": "IDM_300_1500",
-      "trajectory": "IDM_300_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "IDM_300_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 528,
@@ -360,7 +360,7 @@
       "volume": 100,
       "seed": 10,
       "run_folder": "OVM_10_100",
-      "trajectory": "OVM_10_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -378,7 +378,7 @@
       "volume": 100,
       "seed": 300,
       "run_folder": "OVM_300_100",
-      "trajectory": "OVM_300_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -396,7 +396,7 @@
       "volume": 200,
       "seed": 10,
       "run_folder": "OVM_10_200",
-      "trajectory": "OVM_10_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 200,
@@ -414,7 +414,7 @@
       "volume": 200,
       "seed": 300,
       "run_folder": "OVM_300_200",
-      "trajectory": "OVM_300_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 200,
@@ -432,7 +432,7 @@
       "volume": 300,
       "seed": 10,
       "run_folder": "OVM_10_300",
-      "trajectory": "OVM_10_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 300,
@@ -450,7 +450,7 @@
       "volume": 300,
       "seed": 300,
       "run_folder": "OVM_300_300",
-      "trajectory": "OVM_300_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 300,
@@ -468,7 +468,7 @@
       "volume": 400,
       "seed": 10,
       "run_folder": "OVM_10_400",
-      "trajectory": "OVM_10_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 47,
@@ -486,7 +486,7 @@
       "volume": 400,
       "seed": 300,
       "run_folder": "OVM_300_400",
-      "trajectory": "OVM_300_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 400,
@@ -504,7 +504,7 @@
       "volume": 500,
       "seed": 10,
       "run_folder": "OVM_10_500",
-      "trajectory": "OVM_10_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -522,7 +522,7 @@
       "volume": 500,
       "seed": 300,
       "run_folder": "OVM_300_500",
-      "trajectory": "OVM_300_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -540,7 +540,7 @@
       "volume": 650,
       "seed": 10,
       "run_folder": "OVM_10_650",
-      "trajectory": "OVM_10_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 650,
@@ -558,7 +558,7 @@
       "volume": 650,
       "seed": 300,
       "run_folder": "OVM_300_650",
-      "trajectory": "OVM_300_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 650,
@@ -576,7 +576,7 @@
       "volume": 900,
       "seed": 10,
       "run_folder": "OVM_10_900",
-      "trajectory": "OVM_10_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 161,
@@ -594,7 +594,7 @@
       "volume": 900,
       "seed": 300,
       "run_folder": "OVM_300_900",
-      "trajectory": "OVM_300_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 712,
@@ -612,7 +612,7 @@
       "volume": 1500,
       "seed": 10,
       "run_folder": "OVM_10_1500",
-      "trajectory": "OVM_10_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_10_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 702,
@@ -630,7 +630,7 @@
       "volume": 1500,
       "seed": 300,
       "run_folder": "OVM_300_1500",
-      "trajectory": "OVM_300_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "OVM_300_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 694,
@@ -648,7 +648,7 @@
       "volume": 100,
       "seed": 10,
       "run_folder": "W74_10_100",
-      "trajectory": "W74_10_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -666,7 +666,7 @@
       "volume": 100,
       "seed": 300,
       "run_folder": "W74_300_100",
-      "trajectory": "W74_300_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -684,7 +684,7 @@
       "volume": 200,
       "seed": 10,
       "run_folder": "W74_10_200",
-      "trajectory": "W74_10_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 200,
@@ -702,7 +702,7 @@
       "volume": 200,
       "seed": 300,
       "run_folder": "W74_300_200",
-      "trajectory": "W74_300_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 29,
@@ -720,7 +720,7 @@
       "volume": 300,
       "seed": 10,
       "run_folder": "W74_10_300",
-      "trajectory": "W74_10_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 300,
@@ -738,7 +738,7 @@
       "volume": 300,
       "seed": 300,
       "run_folder": "W74_300_300",
-      "trajectory": "W74_300_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 43,
@@ -756,7 +756,7 @@
       "volume": 400,
       "seed": 10,
       "run_folder": "W74_10_400",
-      "trajectory": "W74_10_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 73,
@@ -774,7 +774,7 @@
       "volume": 400,
       "seed": 300,
       "run_folder": "W74_300_400",
-      "trajectory": "W74_300_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 400,
@@ -792,7 +792,7 @@
       "volume": 500,
       "seed": 10,
       "run_folder": "W74_10_500",
-      "trajectory": "W74_10_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -810,7 +810,7 @@
       "volume": 500,
       "seed": 300,
       "run_folder": "W74_300_500",
-      "trajectory": "W74_300_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -828,7 +828,7 @@
       "volume": 650,
       "seed": 10,
       "run_folder": "W74_10_650",
-      "trajectory": "W74_10_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 550,
@@ -846,7 +846,7 @@
       "volume": 650,
       "seed": 300,
       "run_folder": "W74_300_650",
-      "trajectory": "W74_300_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 555,
@@ -864,7 +864,7 @@
       "volume": 900,
       "seed": 10,
       "run_folder": "W74_10_900",
-      "trajectory": "W74_10_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 556,
@@ -882,7 +882,7 @@
       "volume": 900,
       "seed": 300,
       "run_folder": "W74_300_900",
-      "trajectory": "W74_300_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 151,
@@ -900,7 +900,7 @@
       "volume": 1500,
       "seed": 10,
       "run_folder": "W74_10_1500",
-      "trajectory": "W74_10_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_10_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 544,
@@ -918,7 +918,7 @@
       "volume": 1500,
       "seed": 300,
       "run_folder": "W74_300_1500",
-      "trajectory": "W74_300_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W74_300_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 555,
@@ -936,7 +936,7 @@
       "volume": 100,
       "seed": 10,
       "run_folder": "W99_10_100",
-      "trajectory": "W99_10_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 100,
@@ -954,7 +954,7 @@
       "volume": 100,
       "seed": 300,
       "run_folder": "W99_300_100",
-      "trajectory": "W99_300_100\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_100/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 9,
@@ -972,7 +972,7 @@
       "volume": 200,
       "seed": 10,
       "run_folder": "W99_10_200",
-      "trajectory": "W99_10_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 200,
@@ -990,7 +990,7 @@
       "volume": 200,
       "seed": 300,
       "run_folder": "W99_300_200",
-      "trajectory": "W99_300_200\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_200/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 200,
@@ -1008,7 +1008,7 @@
       "volume": 300,
       "seed": 10,
       "run_folder": "W99_10_300",
-      "trajectory": "W99_10_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 300,
@@ -1026,7 +1026,7 @@
       "volume": 300,
       "seed": 300,
       "run_folder": "W99_300_300",
-      "trajectory": "W99_300_300\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_300/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 37,
@@ -1044,7 +1044,7 @@
       "volume": 400,
       "seed": 10,
       "run_folder": "W99_10_400",
-      "trajectory": "W99_10_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 400,
@@ -1062,7 +1062,7 @@
       "volume": 400,
       "seed": 300,
       "run_folder": "W99_300_400",
-      "trajectory": "W99_300_400\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_400/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 400,
@@ -1080,7 +1080,7 @@
       "volume": 500,
       "seed": 10,
       "run_folder": "W99_10_500",
-      "trajectory": "W99_10_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -1098,7 +1098,7 @@
       "volume": 500,
       "seed": 300,
       "run_folder": "W99_300_500",
-      "trajectory": "W99_300_500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 500,
@@ -1116,7 +1116,7 @@
       "volume": 650,
       "seed": 10,
       "run_folder": "W99_10_650",
-      "trajectory": "W99_10_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": false,
         "n_vehicles": 143,
@@ -1134,7 +1134,7 @@
       "volume": 650,
       "seed": 300,
       "run_folder": "W99_300_650",
-      "trajectory": "W99_300_650\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_650/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 519,
@@ -1152,7 +1152,7 @@
       "volume": 900,
       "seed": 10,
       "run_folder": "W99_10_900",
-      "trajectory": "W99_10_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 525,
@@ -1170,7 +1170,7 @@
       "volume": 900,
       "seed": 300,
       "run_folder": "W99_300_900",
-      "trajectory": "W99_300_900\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_900/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 525,
@@ -1188,7 +1188,7 @@
       "volume": 1500,
       "seed": 10,
       "run_folder": "W99_10_1500",
-      "trajectory": "W99_10_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_10_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 526,
@@ -1206,7 +1206,7 @@
       "volume": 1500,
       "seed": 300,
       "run_folder": "W99_300_1500",
-      "trajectory": "W99_300_1500\\Trajectory_vehicle_trajectory.csv",
+      "trajectory": "W99_300_1500/Trajectory_vehicle_trajectory.csv",
       "qc": {
         "complete": true,
         "n_vehicles": 522,

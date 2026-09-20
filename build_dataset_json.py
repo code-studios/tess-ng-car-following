@@ -109,13 +109,13 @@ def main():
             ),
             "author": "Eni Solomon Laughter",
             "year": 2026,
-            "doi": "10.1007/s13369-026-xxxxx",          # replace with actual DOI
             "paper_url": (
                 "https://www.researchgate.net/publication/412751354_Behavioral_Fidelity_"
                 "of_Built-in_Car-Following_Models_in_TESS_NG_Microsimulation_"
                 "A_Controlled_Work-Zone_Bottleneck_Characterization"
             ),
             "license": "CC BY 4.0",
+            "note": "Preprint — no journal affiliation",
         },
         "simulation": {
             "simulator":    "TESS NG",

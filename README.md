@@ -1,7 +1,7 @@
 # TESS NG Car-Following Model Benchmark Dataset
 
 > **Behavioral Fidelity of Built-in Car-Following Models in TESS NG Microsimulation: A Controlled Work-Zone Bottleneck Characterization**
-> Laughter, E. S. (2026) · *Arabian Journal for Science and Engineering*
+> Laughter, E. S. (2026) · *Preprint*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -11,7 +11,7 @@
 
 This repository holds the **trajectory dataset** and **structured manifest** produced by the study:
 
-> **Laughter, E. S. (2026).** *Behavioral Fidelity of Built-in Car-Following Models in TESS NG Microsimulation: A Controlled Work-Zone Bottleneck Characterization.* Arabian Journal for Science and Engineering. [ResearchGate](https://www.researchgate.net/publication/412751354_Behavioral_Fidelity_of_Built-in_Car-Following_Models_in_TESS_NG_Microsimulation_A_Controlled_Work-Zone_Bottleneck_Characterization)
+> **Laughter, E. S. (2026).** *Behavioral Fidelity of Built-in Car-Following Models in TESS NG Microsimulation: A Controlled Work-Zone Bottleneck Characterization.* Preprint. [ResearchGate](https://www.researchgate.net/publication/412751354_Behavioral_Fidelity_of_Built-in_Car-Following_Models_in_TESS_NG_Microsimulation_A_Controlled_Work-Zone_Bottleneck_Characterization)
 
 The study evaluates the **four car-following models built into TESS NG** — IDM, OVM, Wiedemann 74 (W74), and Wiedemann 99 (W99) — at their **default out-of-box parameters**, using a controlled three-lane work-zone bottleneck. Trajectories are the raw output of each simulation run and are suitable for downstream analysis including capacity estimation, surrogate safety assessment, behavioral fingerprinting, and clustering.
 
@@ -248,8 +248,7 @@ Please cite both the paper and this repository:
 ```
 Laughter, E. S. (2026). Behavioral Fidelity of Built-in Car-Following Models in
 TESS NG Microsimulation: A Controlled Work-Zone Bottleneck Characterization.
-Arabian Journal for Science and Engineering.
-doi:10.1007/s13369-026-xxxxx
+Preprint. Available at: https://www.researchgate.net/publication/412751354
 ```
 
 **This repository (dataset):**

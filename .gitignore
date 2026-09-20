@@ -1,0 +1,19 @@
+# ─── Simulation output data (too large for GitHub) ───────────────────────────
+# All 64 run folders
+IDM_*/
+OVM_*/
+W74_*/
+W99_*/
+
+# TESS NG workspace (network/project files)
+Workspace/
+
+# Python cache
+__pycache__/
+
+# Old / helper CSVs — superseded by dataset.json
+runs_manifest.csv
+inspect_traj.py
+check.py
+rerun.py
+profile_data.py

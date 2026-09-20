@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "TESS NG Car-Following Model Benchmark Dataset"
+abstract: >-
+  Trajectory dataset from a TESS NG microsimulation study benchmarking the four
+  built-in car-following models (IDM, OVM, Wiedemann 74, Wiedemann 99) at
+  default parameters across a controlled work-zone bottleneck. Contains 51 valid
+  simulation runs (64 nominal), each exporting per-vehicle trajectories at ~30 Hz
+  over 600 s from a 3-lane, 300 m work-zone scenario.
+authors:
+  - family-names: "Laughter"
+    given-names: "Eni Solomon"
+    orcid: ""
+version: "1.0"
+date-released: "2026-09-20"
+publisher:
+  name: "GitHub"
+  repository-code: "https://github.com/code-studios/tess-ng-car-following"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/code-studios/tess-ng-car-following"
+url: "https://www.researchgate.net/publication/412751354"
+keywords:
+  - traffic simulation
+  - car-following models
+  - TESS NG
+  - microsimulation
+  - trajectory data
+  - work-zone bottleneck
+  - surrogate safety
+  - capacity analysis

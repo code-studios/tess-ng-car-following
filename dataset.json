@@ -1,6 +1,6 @@
 {
   "_note": "Edit huggingface_url below to point to your Hugging Face dataset repository after uploading the trajectory files.",
-  "huggingface_url": "https://huggingface.co/datasets/YOUR-USERNAME/tess-ng-car-following",
+  "huggingface_url": "https://huggingface.co/datasets/eslaughter/tess-ng-car-following",
   "study": {
     "title": "Behavioral Fidelity of Built-in Car-Following Models in TESS NG Microsimulation: A Controlled Work-Zone Bottleneck Characterization",
     "author": "Eni Solomon Laughter",

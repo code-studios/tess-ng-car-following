@@ -267,3 +267,40 @@ A ready-to-use `.cff` citation file is included in this repository.
 **CC BY 4.0** — You are free to share and adapt this material for any purpose, provided you give appropriate credit to the author.
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+## Network and results figures
+
+![Road schematic](docs/study_road_design.png)
+
+*Road schematic of the 300 m three-lane link with the temporary lane-3 closure
+forming the bottleneck. The scenario is deliberately minimal so that differences
+in outcome are attributable to the CF model rather than network complexity.*
+
+![Space-time speed fields](docs/space_time_speed_fields.png)
+
+*Space-time speed fields by model under high demand, illustrating differing
+congestion regimes across the four built-in car-following models - IDM
+(continuous acceleration), OVM (continuous, optimal-velocity) and the two
+psychophysical Wiedemann models (W74 urban-oriented, W99 freeway-oriented).*
+
+## Getting started
+
+A self-contained Python walkthrough that downloads and reads the dataset is
+included in [`guides/`](guides/):
+
+```bash
+pip install huggingface_hub pandas
+python guides/tess_ng_cfm_demo.py
+```
+
+See [`guides/README.md`](guides/README.md) for full instructions.
+
+## Software credit
+
+All simulations were run in [TESS NG](https://www.jidatraffic.com/home), the
+microscopic traffic simulation software developed by **Shanghai Jida Traffic
+Technology Co., Ltd. (Shanghai Jida Traffic Technology Co., Ltd.)**. The
+simulation software itself is Jida Traffic's work. The analysis, dataset
+curation, manuscript, and figures are the work of **Eni Solomon Laughter**,
+Chang'an University.
+
